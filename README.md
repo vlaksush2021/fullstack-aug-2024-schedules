@@ -144,3 +144,7 @@
 * Asynchronous JavaScript
 * Callbacks and Promises
 * Async/Await for Asynchronous Operations
+
+
+## Week 5
+**Note** We will provide updates from Week 5 at a later time. Please check back! 😊
