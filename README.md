@@ -194,7 +194,7 @@
 - Event handling (onClick, onChange)
 - Hands-on: Build a simple interactive app (like a counter or input field) to manage state and handle user interactions
 
-## **Day 2: Component Lifecycle and Forms in Functional Components**
+## **Day 2: Component Lifecycle and cConditional Rendering in Functional Components**
 
 ### `useEffect` Hook for Side Effects
 - Introduction to **side effects** in React (e.g., data fetching, subscriptions)
@@ -209,6 +209,9 @@
 - Rendering **Lists** using `.map()` and understanding the importance of **keys** in lists
 - Hands-on: Display a list of items from API data, with conditional rendering (e.g., show a loading spinner until data loads)
 
+# Week 7 - React.js
+## **Day 3: Forms, Advanced Hooks**
+
 ###  Handling Forms and Input State with `useState`
 - Controlled vs. uncontrolled components in React forms
 - Managing form input state using the `useState` hook
@@ -216,8 +219,6 @@
 - Hands-on: Build a form with multiple input fields, validate input, and manage form state (e.g., login or contact form)
 
 
-# Week 7 - React.js
-## **Day 3: Advanced Hooks, Context API, and Performance Optimization**
 ### Advanced React Hooks
 - Introduction to the `useRef` hook:
   - Managing references to DOM elements
@@ -226,6 +227,8 @@
   - Using `useReducer` for more complex state logic (like Redux-style state management)
   - Comparing `useState` vs. `useReducer`
 - Hands-on: Build a form using `useReducer` to manage multiple field states more efficiently
+
+## **Day 4: Context API, and Performance Optimization**
 
 ### Global State Management with Context API
 - Introduction to **Context API**:
@@ -244,7 +247,9 @@
   - Memoizing functions to avoid unnecessary re-creations of handlers
 - Hands-on: Optimize a list filtering app using `React.memo`, `useMemo`, and `useCallback`
 
-## **Day 4: Navigation with Reach Router and API Integration**
+# Week 8 - React.js
+
+## **Day 5: Navigation with Reach Router and API Integration**
 
 ### Introduction to Reach Router
 - What is **Reach Router** and how is it different from React Router?
@@ -265,9 +270,8 @@
 - Integrating API data with Reach Router’s routes
 - Hands-on: Fetch data from an external API (e.g., a list of posts or users) and display the results in a routed page
 
-## Week 8 - React.js
 
-## **Day 5: State Management with Redux and Testing in React**
+## **Day 6: State Management with Redux **
 
 ### Introduction to Redux
 - Why use Redux for state management?
@@ -288,6 +292,9 @@
 - Managing side effects (e.g., API requests) in Redux
 - Hands-on: Fetch API data with Redux Thunk and dispatch actions based on API response
 
+# Week 9 - React.js
+## **Day 7: Testing in React**
+
 ### Testing in React
 - Introduction to testing React applications:
   - Why testing is important
@@ -297,4 +304,17 @@
   - Mocking props and functions
 - Hands-on: Write unit tests for a simple React component (e.g., form submission or button click)
 - Overview of snapshot testing with Jest
+
+## **Day 8: Overview of MySQL**
+
+
+# Week 10 MySQL-React Integration with MSQL
+## Day 1 - Part 1
+
+## Day 2 - Part 2
+
+
+# Week 11 - Project
+
+# Week 12 - Project
 
